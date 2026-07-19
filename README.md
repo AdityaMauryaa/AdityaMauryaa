@@ -79,35 +79,47 @@ while (alive) {
 
 aditya@github:~$ top
 
-Knowledge   ████████████████████ 100%
-Curiosity   ████████████████████ 100%
-Coffee      ████████████████████ 100%
-Sleep       ████░░░░░░░░░░░░░░░░ 20%
+Learning        ████████████████████
+Building        █████████████████░░░
+Problem Solving ████████████████░░░░
+Debugging       ██████████████████░░
 
 aditya@github:~$ github --activity
 ```
 
 <div align="center">
 
-### 📊 GitHub Activity
-
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaMauryaa&theme=github_dark" />
 
 <br><br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=AdityaMauryaa&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AdityaMauryaa&theme=github-dark&hide_border=true" />
 
 </div>
 
 ```console
-aditya@github:~$ cat contact.txt
+aditya@github:~$ open contact
+Opening external links...
+```
 
-GitHub    : github.com/AdityaMauryaa
-LinkedIn  : linkedin.com/in/aditya-maurya-5b31a3263
-Email     : amauryaoff09@gmail.com
+<div align="center">
 
+<a href="https://github.com/AdityaMauryaa">
+  <img src="https://img.shields.io/badge/GitHub-AdityaMauryaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-maurya-5b31a3263/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:amauryaoff09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amauryaoff09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+```console
 aditya@github:~$ echo "Thanks for visiting!"
-
 Thanks for visiting!
 
 aditya@github:~$ █
